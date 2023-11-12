@@ -42,7 +42,7 @@
 @import "user";
 
 body {
-  background: var(--redditish-bg-color);
+  background: #fcfcfc;
   background-image: none !important; /* overrides category bg because we use it for banners instead */
 
   &:not(.has-sidebar-page) {
